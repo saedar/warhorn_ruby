@@ -18,9 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-You will need to register your application with Warhorn and retrieve an OAuth token from them.
-
-Information can be found here: https://github.com/warhorn/api/blob/v2/sections/authentication.md#obtaining-an-access-token.
+[Will be populated at a later date.]
 
 ## Contributing
 
